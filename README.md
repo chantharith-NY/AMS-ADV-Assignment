@@ -44,9 +44,9 @@ cd AMS-ADV-T3-Assignment
 
 See future assignment files for setup and usage instructions.
 
-## 👨‍💻 Author
+<!-- ## 👨‍💻 Author
 
-Created by [**@chantharith-NY**](https://github.com/chantharith-NY).
+Created by [**@chantharith-NY**](https://github.com/chantharith-NY). -->
 
 <div align="center">
 
