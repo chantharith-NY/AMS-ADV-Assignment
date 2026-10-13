@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=190&amp;section=header&amp;text=AMS%20ADV%20T3%20ASSIGNMENT&amp;fontSize=35&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Learn%20%E2%80%A2%20Create%20%E2%80%A2%20Explore&amp;descAlignY=59&amp;descSize=17" width="100%" alt="AMS ADV T3 Assignment banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=190&amp;section=header&amp;text=AMS%20ADV%20T3%20ASSIGNMENT&amp;fontSize=35&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Learn%20%E2%80%A2%20Create%20%E2%80%A2%20Explore&amp;descAlignY=59&amp;descSize=17" width="100%" alt="AMS ADV Assignment banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=2800&amp;pause=900&amp;color=9E8BFF&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=750&amp;lines=Welcome+to+AMS-ADV-T3-Assignment!;Building+knowledge%2C+one+commit+at+a+time.;Keep+learning.+Keep+creating.+%F0%9F%9A%80" alt="Animated typing introduction" />
 
@@ -38,15 +38,15 @@ The repository is being initialized. Project files and instructions will be docu
 Clone the repository:
 
 ```bash
-git clone https://github.com/chantharith-NY/AMS-ADV-T3-Assignment.git
-cd AMS-ADV-T3-Assignment
+git clone https://github.com/chantharith-NY/AMS-ADV-Assignment.git
+cd AMS-ADV-Assignment
 ```
 
 See future assignment files for setup and usage instructions.
 
-<!-- ## 👨‍💻 Author
+## 👨‍💻 Author
 
-Created by [**@chantharith-NY**](https://github.com/chantharith-NY). -->
+Created by [**@chantharith-NY**](https://github.com/chantharith-NY).
 
 <div align="center">
 
